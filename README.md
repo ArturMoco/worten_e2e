@@ -1,6 +1,6 @@
 # 🛒 Teste E2E - Worten.pt
 
-Este projeto automatiza o fluxo de compra no site [worten.pt](https://www.worten.pt) usando Cypress 14, simulando o comportamento real de um usuário.
+Este projeto automatiza o fluxo de compra no site [worten.pt](https://www.worten.pt) usando Cypress, simulando o comportamento real de um usuário.
 
 ---
 
