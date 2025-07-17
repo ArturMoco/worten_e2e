@@ -15,7 +15,7 @@ Este projeto automatiza o fluxo de compra no site [worten.pt](https://www.worten
 
 ## 🧪 Tecnologias e Ferramentas
 
-- [Cypress v14](https://www.cypress.io/)
+- [Cypress](https://www.cypress.io/)
 - Cypress Wait Until Plugin
 - Cypress Screenshot e Video Capture
 - JavaScript
